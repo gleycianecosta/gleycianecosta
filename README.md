@@ -1,16 +1,37 @@
-# Gleyciane Costa
-## Hey guys👋
 
-- Tenho 24 anos, trabalho como Desenvolvedora Web há quase 2 anos, sou graduanda em Análise e Desenvolvimento de Sistemas. Nos últimos meses venho estudando também sobre Marketing Digital e aprendendo mais sobre UX. Antes de tudo isso, também cursei até o 5 perído de Ciências e Tecnologias na UFRN, que foi onde descobrir que não queria ser Engenheira de Computação e sim Desenvolvedoa. Moro no Rio de Janeiro/RJ, cidade Maravilhosa. 
+👩‍💻 Desenvolvedora Web & Apaixonada por UX/UI
 
- ## Contatos:
+🌟 Sobre Mim:
+
+💼 Experiência Profissional: Desenvolvedora Web com quase 2 anos de atuação, focada em criar experiências digitais impactantes.
+📚 Educação: Graduanda em Análise e Desenvolvimento de Sistemas, com base sólida em Ciências e Tecnologias pela UFRN.
+🌐 Localização: Resido na cidade Maravilhosa, Rio de Janeiro/RJ.
+🚀 Atualizações Recentes:
+
+🎓 Aprimoramento Contínuo: Além da graduação, tenho investido em meu desenvolvimento profissional, recentemente estudando Marketing Digital e aprimorando habilidades em UX/UI.
+🧠 Paixão pela Transformação Digital: Comprometida em oferecer soluções inovadoras, explorando a interseção entre desenvolvimento web e experiência do usuário.
+🛠️ Tecnologias & Habilidades:
+
+🖥️ Desenvolvimento Web:
+- HTML, CSS, Javascript
+- Typescript
+- React.js
+- Webpack, Babel
+- Node.js, NPM, Yarn
+- Git e Git Workflow
+- Testes com Jest (Unitários, Ponta-a-Ponta, Integração)
+
+🚀 Marketing Digital: Ampliando horizontes para integrar estratégias eficazes.
+🎨 UX/UI: Explorando a criação de interfaces atraentes e intuitivas.
+🌐 Conecte-se:
 <div>
-<a href="https://instagram.com/gleyctavaress" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@gleyc47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gleycianecosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>         
+<a href="https://instagram.com/gleyctavaress" target="_blank"></a>
+<a href = "mailto:contato@gleyc47@gmail.com"></a>
+<a href="https://www.linkedin.com/in/gleycianecosta" target="_blank"></a>   
+</div>     
 
-<!--
+🌈 Mergulhe no meu Mundo Tecnológico!
+
 
           
 -->
