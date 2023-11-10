@@ -1,7 +1,7 @@
 # Gleyciane Costa
 ## Hey guys👋
 
-- Tenho 24 anos e atualmente trabalho como Desenvolvedora Web há quase 2 anos, sou graduanda em Análise e Desenvolvimento de Sistemas. Nos últimos meses venho estudando também sobre Marketing Digital e aprendendo mais sobre UX. Moro no Rio de Janeiro/RJ, cidade Maravilhosa. 
+- Tenho 24 anos, trabalho como Desenvolvedora Web há quase 2 anos, sou graduanda em Análise e Desenvolvimento de Sistemas. Nos últimos meses venho estudando também sobre Marketing Digital e aprendendo mais sobre UX. Antes de tudo isso, também cursei até o 5 perído de Ciências e Tecnologias na UFRN, que foi onde descobrir que não queria ser Engenheira de Computação e sim Desenvolvedoa. Moro no Rio de Janeiro/RJ, cidade Maravilhosa. 
 
  ## Contatos:
 <div>
