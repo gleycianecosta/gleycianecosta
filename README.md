@@ -24,14 +24,10 @@
 🚀 Marketing Digital: Ampliando horizontes para integrar estratégias eficazes.
 🎨 UX/UI: Explorando a criação de interfaces atraentes e intuitivas.
 🌐 Conecte-se:
-<div>
-<a href="https://instagram.com/gleyctavaress" target="_blank"></a>
-<a href = "mailto:contato@gleyc47@gmail.com"></a>
-<a href="https://www.linkedin.com/in/gleycianecosta" target="_blank"></a>   
-</div>     
+Email: gleyc47@gmail.com
+Linkedin: https://www.linkedin.com/in/gleycianecosta
 
 🌈 Mergulhe no meu Mundo Tecnológico!
 
 
           
--->
