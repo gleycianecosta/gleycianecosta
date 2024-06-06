@@ -1,5 +1,5 @@
 
-👩‍💻 Desenvolvedora Web & Apaixonada por UX/UI
+👩‍💻 Desenvolvedora Web, Analista de Marketing e Comercial
 
 🌟 Sobre Mim:
 
