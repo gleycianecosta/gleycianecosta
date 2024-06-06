@@ -3,12 +3,12 @@
 
 🌟 Sobre Mim:
 
-💼 Experiência Profissional: Desenvolvedora Web com quase 2 anos de atuação, focada em criar experiências digitais impactantes.
+💼 Experiência Profissional: Desenvolvedora Web com quase 3 anos de atuação, focada em criar experiências digitais personalizadas.
 📚 Educação: Graduanda em Análise e Desenvolvimento de Sistemas, com base sólida em Ciências e Tecnologias pela UFRN.
 🌐 Localização: Resido na cidade Maravilhosa, Rio de Janeiro/RJ.
-🚀 Atualizações Recentes:
 
-🎓 Aprimoramento Contínuo: Além da graduação, tenho investido em meu desenvolvimento profissional, recentemente estudando Marketing Digital e aprimorando habilidades em UX/UI.
+💼 Há um ano também venho trabalhando no mercado do Marketing e Comunicação digital, tanto como Analista de Marketing quanto Analista de CRM.
+
 🧠 Paixão pela Transformação Digital: Comprometida em oferecer soluções inovadoras, explorando a interseção entre desenvolvimento web e experiência do usuário.
 🛠️ Tecnologias & Habilidades:
 
